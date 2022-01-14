@@ -59,7 +59,7 @@
   "bugs": {
     "url": "https://github.com/react-native-kit/react-native-track-player/issues"
   },
-  "peerDependencies": {
+  "dependencies": {
     "react": "16.13.1",
     "react-native": "0.64.2",
     "react-native-windows": "0.64.24"
