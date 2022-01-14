@@ -62,7 +62,7 @@
   "peerDependencies": {
     "react": "^16.13.1",
     "react-native": "0.64.2",
-    "react-native-windows": "0.64.2"
+    "react-native-windows": "0.64.24"
   },
   "devDependencies": {
     "@types/react-native": "^0.60.0",
